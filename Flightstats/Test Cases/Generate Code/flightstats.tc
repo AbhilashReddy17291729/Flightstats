@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>flightstats</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>89f4fe1e-916d-42d6-a01c-fca9b8103b8c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>81fb31de-558e-47cb-8274-f1dee511e44d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c03c673b-a0e7-4624-a566-c4102229f99b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'AbhilashReddy'</defaultValue>
+      <description></description>
+      <id>81fb31de-558e-47cb-8274-f1dee511e44d</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Abhilash1729'</defaultValue>
+      <description></description>
+      <id>c03c673b-a0e7-4624-a566-c4102229f99b</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
